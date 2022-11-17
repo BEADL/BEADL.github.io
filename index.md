@@ -35,6 +35,6 @@ We propose BEADL (BEhavioral tAsk Description Language) to abstract and standard
 ![](/assets/images/BEADL_NWB_Workflow.png)
 
 # Funding
-NIH RF1MH120034
+NIH RF1MH120034  
 NeuroNex NSF 2118583
 
